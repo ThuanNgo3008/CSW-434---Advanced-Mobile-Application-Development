@@ -1,0 +1,16 @@
+# Dependencies
+**/node_modules/
+
+# Expo
+**/.expo/
+**/dist/
+**/web-build/
+
+# Local environments and secrets
+**/.env
+**/.env.*
+!**/.env.example
+
+# Temporary files
+**/*.log
+**/.DS_Store
