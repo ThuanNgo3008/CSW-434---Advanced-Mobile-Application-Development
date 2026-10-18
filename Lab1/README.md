@@ -2,7 +2,6 @@
 
 Technologies:
 - React Native
-- Expo
 - Node.js
 - Socket.IO
 
