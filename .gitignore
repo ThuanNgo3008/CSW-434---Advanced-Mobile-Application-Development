@@ -14,3 +14,9 @@
 # Temporary files
 **/*.log
 **/.DS_Store
+
+
+**/.gradle/
+**/build/
+**/.cxx/
+**/local.properties
