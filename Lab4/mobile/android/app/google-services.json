@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "796440159593",
+    "project_id": "csw434-lab4-81a2d",
+    "storage_bucket": "csw434-lab4-81a2d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:796440159593:android:cabe64591dea532d6989f8",
+        "android_client_info": {
+          "package_name": "com.mobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-m8UWWTQyPPRH_bHbqX6YHG28lqGfcdA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
